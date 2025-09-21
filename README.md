@@ -88,6 +88,10 @@ Implementar validaciones dinámicas
 
 Crear una experiencia de usuario fluida
 
+CAPTURA DE PANTALLA
+<img width="1327" height="647" alt="image" src="https://github.com/user-attachments/assets/91edfbda-19d4-4cc3-ad8f-fae2e40b2c5c" />
+
+
 👨‍💻 Autor
 
 Angel Urdiales - Proyecto educativo
